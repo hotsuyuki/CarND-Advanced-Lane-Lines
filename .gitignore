@@ -1,0 +1,7 @@
+*.mp4
+*.pdf
+output_videos/*challenge*.mp4
+
+camera_cal
+examples
+test_images
