@@ -1,6 +1,7 @@
-*.mp4
-*.pdf
-
+.ipynb_checkpoints
 camera_cal
 examples
 test_images
+
+*.pdf
+.DS_Store
