@@ -5,4 +5,5 @@ test_images
 
 *.pdf
 project_video.mp4
+output_videos/*challenge*.mp4
 .DS_Store
